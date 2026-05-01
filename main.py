@@ -1,4 +1,4 @@
-from sys import exit
+from sys import exit   #hech narsa uzgartirilmaydi
 
 from utils import print_menu, print_error_menu, print_main_menu
 from handlers import (
